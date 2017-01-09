@@ -1,4 +1,5 @@
-# docker-redis-sentinel
+# docker-redis-sentinel [![Docker Repository on Quay](https://quay.io/repository/smile/docker-redis-sentinel/status "Docker Repository on Quay")](https://quay.io/repository/smile/docker-redis-sentinel)
+
 Docker repository to sentinel redis clustering to use by redis-cluster helm chart (work in progress)
 
 
