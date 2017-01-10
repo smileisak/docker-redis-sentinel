@@ -1,4 +1,4 @@
-FROM redis:3
+FROM redis:3.2-alpine
 
 MAINTAINER Ismail KABOUBI <ikaboubi@gmail.com>
 
